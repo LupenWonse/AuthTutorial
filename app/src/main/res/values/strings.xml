@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass10Tutorial</string>
+    <string name="usernameHint">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintPasswordRepeat">Repeat Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>

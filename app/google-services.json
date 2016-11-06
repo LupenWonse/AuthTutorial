@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851767587909",
+    "firebase_url": "https://inclass10-133fe.firebaseio.com",
+    "project_id": "inclass10-133fe",
+    "storage_bucket": "inclass10-133fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851767587909:android:06c782f8792887ff",
+        "android_client_info": {
+          "package_name": "com.example.ahmet.inclass10tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851767587909-5s349a8s537hkqsn7i6f6eh1707tdhg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF93QGL2xU0iYbmicOSgbFJOBJWktEH9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
